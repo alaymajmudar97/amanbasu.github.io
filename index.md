@@ -47,3 +47,25 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 #### Hospital Management System
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
+# Certifications and Courses
+- Deep Learning Specialization (5 courses), Prof. Andrew Ng.
+- Machine Learning by Stanford University, Prof. Andrew Ng.
+- Introduction to Big Data by University of California San Diego.
+- Elements of AI by University of Helsinki.
+- Data Analysis, Udacity.
+- Applied Machine Learning in Python by University of Michigan.
+- Programming Mobile Applications for Android by University of Maryland, Prof. Adam Porter.
+- Introduction to Python programming, Udemy.
+
+# Achievements
+- GRE score: 327 (2018)
+- 1st Place in JAVA LINGO coding comptetion (2017)
+- 1st Place in North Zone science exhibition (2014)
+- Gold Medal in Maths olympiad (2010-13)
+
+# Hobbies & Interests
+- Body Building and Cooking.
+- Reading Novels.
+- Playing sports.
+- Singing and Listening Songs.
+- Watching Cricket Matches.

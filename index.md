@@ -2,6 +2,10 @@
 I am an undergraduate, final year student pursuing Computer Engineering at Nirma University, Ahmedabad, India. I have been
 working in the field of Artificial Intelligence and Machine Learning from past 2 years and have worked on projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
+# Education
+- Undergraduate: Nirma University, Ahmedabad
+- High School: St. Conrad's Inter College, Agra
+
 # Research
 Currently, I am involved in projects requiring analysis of whole boly MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
 

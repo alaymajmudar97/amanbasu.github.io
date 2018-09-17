@@ -1,36 +1,24 @@
+### Biography
+I am an undergraduate, final year student pursuing Computer Engineering from Nirma University, Ahmedabad, India. I have been
+working in the field of Artificial Intelligence and Machine Learning from past 2 years and have worked on projects involving Computer Vision, Agriculture, Neuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
-You can use the [editor on GitHub](https://github.com/First-Of-His-Name/amanagarwal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Predicting the dynamics of Tokamak discharge
+- We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
+- The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
+- Features were given as reading of probes like plasma current, mirnov, loop voltage etc.
 
-### Markdown
+#### Plant disease Identification
+- Classification of plant/crop species and diseases using images.
+- Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
+- Recommending preventive measures for the disease.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Tumor Segmentation
+- Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
 
-```markdown
-Syntax highlighted code block
+### Projects
 
-# Header 1
-## Header 2
-### Header 3
+#### Hospital Management System
+- A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/First-Of-His-Name/amanagarwal.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -5,6 +5,7 @@ working in the field of Artificial Intelligence and Machine Learning from past 2
 ### Research
 
 #### Predicting the dynamics of Tokamak discharge
+##### Department 
 - We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Features were given as reading of probes like plasma current, mirnov, loop voltage etc.

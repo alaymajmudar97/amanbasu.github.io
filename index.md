@@ -23,28 +23,28 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 #### Tumor Segmentation
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
 
-#### Speech Emotion Recognition
+#### Speech Emotion Recognition ![link](https://github.com/First-Of-His-Name/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
-#### Autonomous Car
+#### Autonomous Car ![link](https://github.com/First-Of-His-Name/Autonomous-Car-Prototype)
 - A self-driving RC car which maneuvered itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was able to achieve a classifying accuracy of 94%.
 
 # Other Projects
 
-#### Breaking Bill
+#### Breaking Bill ![link](https://github.com/First-Of-His-Name/Breaking-Bill)
 - Android application to add expenses to a list along with the members who share it.
 - Users can generate bills and split monthly expenses among members according to their contributions.
 
-#### File Sender Application
+#### File Sender Application ![link](https://github.com/First-Of-His-Name/Wifi-P2p)
 - An android application to send files from one android device to another.
 - The application used wifi direct and socket programming.
 - It was capable to sharing any type of file format like image, audio, video, text, pdf, doc, xls etc.
 
-#### Hospital Management System
+#### Hospital Management System ![link](https://github.com/First-Of-His-Name/hospital-management-system)
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
 # Certifications and Courses

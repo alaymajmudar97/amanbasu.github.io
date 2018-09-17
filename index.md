@@ -3,8 +3,8 @@ I am an undergraduate, final year student pursuing Computer Engineering at Nirma
 working in the field of Artificial Intelligence and Machine Learning from past 2 years and have worked on projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
 # Education
-- Bachelor's - Nirma University, Ahmedabad \| GPA - 8.4
-- High School - St. Conrad's Inter College, Agra \| Marks - 95%
+- Bachelor's - Nirma University, Ahmedabad (2019)
+- High School - St. Conrad's Inter College, Agra (2015)
 
 # Research
 Currently, I am involved in projects requiring analysis of whole boly MRI scans, Plasma current confinement in tokamak and agricultural issues in India.

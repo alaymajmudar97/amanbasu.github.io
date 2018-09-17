@@ -3,6 +3,7 @@ I am an undergraduate, final year student pursuing Computer Engineering at Nirma
 working in the field of Artificial Intelligence and Machine Learning from past 2 years and have worked on projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
 # Research
+Currently, I am involved in projects requiring analysis of whole boly MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
 #### Predicting the dynamics of Tokamak discharge (Department of Atomic Energy, India)  
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
 - We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).

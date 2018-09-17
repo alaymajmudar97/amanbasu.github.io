@@ -23,7 +23,7 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 #### Tumor Segmentation
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
 
-#### Speech Emotion Recognition ![link](https://github.com/First-Of-His-Name/speech-emotion-recognition)
+#### Speech Emotion Recognition [link](https://github.com/First-Of-His-Name/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.

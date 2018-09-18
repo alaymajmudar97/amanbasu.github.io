@@ -28,7 +28,7 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
 - Recommending preventive measures for the disease.
 
-#### Speech Emotion Recognition [<small>link</small>](https://github.com/First-Of-His-Name/speech-emotion-recognition)
+#### Speech Emotion Recognition [](https://github.com/First-Of-His-Name/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.

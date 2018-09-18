@@ -6,6 +6,10 @@ working in the field of Artificial Intelligence and Machine Learning from past 2
 - Bachelor's - Nirma University, Ahmedabad \| GPA - 8.39
 - High School - St. Conrad's Inter College, Agra \| Score - 95%
 
+# Skills
+- Programming Languages: Java, Python
+- Frameworks and Libraries: Tensorflow, Keras, Hadoop, Flask
+
 # Research
 Currently, I am involved in projects requiring analysis of whole boly MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
 
@@ -15,13 +19,14 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Features were given as reading of probes like plasma current, mirnov, loop voltage etc.
 
-#### Plant disease Identification
-- Classification of plant/crop species and diseases using image data.
+#### Analysis of crop health
+- Detection of crop species and diseases using image data.
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
 - Recommending preventive measures for the disease.
 
-#### Tumor Segmentation
+#### Full-body Tumor segmentation from MRI scans
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
+- Studying the progression of this segmentation in predicting the severity of the disease.
 
 #### Speech Emotion Recognition [link](https://github.com/First-Of-His-Name/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.

@@ -13,7 +13,7 @@ working in the field of Artificial Intelligence and Machine Learning from past 2
 # Research
 Currently, I am involved in projects requiring analysis of whole boly MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
 
-#### Predicting the dynamics of Tokamak discharge (Department of Atomic Energy, India)  
+#### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
 - We were able to anticipate the disruption of plasma current 12ms prior to the actual disruption (4ms earlier than the state-of-the-art models).
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.

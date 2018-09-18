@@ -19,21 +19,21 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
+#### Full-body Tumor segmentation from MRI scans
+- Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
+- Studying the progression of this segmentation in predicting the severity of the disease.
+
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
 - Recommending preventive measures for the disease.
-
-#### Full-body Tumor segmentation from MRI scans
-- Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
-- Studying the progression of this segmentation in predicting the severity of the disease.
 
 #### Speech Emotion Recognition [link](https://github.com/First-Of-His-Name/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
 - Bidirectional LSTM was used along with local attention mechanism to focus on the part of speech which influence the emotion more.
 - The architecture was trained on NVIDIA K80 system and gave results comparable to the state-of-the-art models.
 
-#### Autonomous Car [link](https://github.com/First-Of-His-Name/Autonomous-Car-Prototype)
+#### Autonomous Car [<sub>link</sub>](https://github.com/First-Of-His-Name/Autonomous-Car-Prototype)
 - A self-driving RC car which maneuvered itself on an indoor, hand-made track.
 - Convolutional Neural Network was used to classify the direction of car from dashcam images.
 - The model was able to achieve a classifying accuracy of 94%.

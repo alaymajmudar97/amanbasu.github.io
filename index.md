@@ -75,4 +75,4 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Singing and Listening Songs.
 - Watching Cricket Matches.
 
-![](https://banner2.kisspng.com/20171202/d5d/twitter-png-picture-5a2301683c6206.6917714115122435602473.jpg)
+<img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.jpg)"/>

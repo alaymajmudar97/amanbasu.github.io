@@ -75,6 +75,6 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Singing and Listening Songs.
 - Watching Cricket Matches.
 
-<img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.jpg" width="20px" height="20px"></img>
-<img src="https://image.freepik.com/free-icon/linkedin-logo_318-50465.jpg" width="20px" height="20px"></img>
-<img src="https://ultimatepail.com/wp-content/uploads/2015/06/GitHub-Logo.png" width="20px" height="20px"></img>
+<a href="https://twitter.com/aman_ag11"><img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.jpg" width="20px" height="20px"></img></a>
+<a href="https://www.linkedin.com/in/aman-agarwal-743548137/"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width="20px" height="20px"></img></a>
+<a href="https://github.com/amanbasu"><img src="https://ultimatepail.com/wp-content/uploads/2015/06/GitHub-Logo.png" width="20px" height="20px"></img></a>

@@ -76,5 +76,5 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Watching Cricket Matches.
 
 <centre><a href="https://twitter.com/aman_ag11"><img src="https://image.freepik.com/free-icon/twitter-logo_318-40209.jpg" width="40px" height="40px"></a>
-<a href="https://www.linkedin.com/in/aman-agarwal-743548137/"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width="45px" height="45px"></a>
+<a href="https://www.linkedin.com/in/aman-agarwal-743548137/"><img src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png" width="43px" height="43px"></a>
 <a href="https://github.com/amanbasu"><img src="https://ultimatepail.com/wp-content/uploads/2015/06/GitHub-Logo.png" width="40px" height="40px"></a></centre>

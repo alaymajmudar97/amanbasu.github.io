@@ -19,7 +19,7 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
-<img src="img/plasma_disruption.gif" alt="segmentation result" class="inline"/><br>
+<img src="img/plasma_disruption.gif" alt="plasma disruption result" class="inline"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### Full-body Tumor segmentation from MRI scans

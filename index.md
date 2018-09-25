@@ -19,6 +19,11 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
+<table class="image">
+<caption align="bottom">Our model predicting the disruption of Plasma current (12ms ahead) in real time.</caption>
+<tr><td><img src="https://github.com/amanbasu/amanbasu.github.io/blob/master/img/plasma_disruption.gif" alt="demo"/></td></tr>
+</table>
+
 ![](https://github.com/amanbasu/amanbasu.github.io/blob/master/img/plasma_disruption.gif)
 <br>Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 

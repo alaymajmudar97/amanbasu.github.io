@@ -20,7 +20,7 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
 ![](https://github.com/amanbasu/amanbasu.github.io/blob/master/img/plasma_disruption.gif)
-Our model predicting the disruption of Plasma current (12ms ahead) in real time.
+<br>Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### Full-body Tumor segmentation from MRI scans
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.

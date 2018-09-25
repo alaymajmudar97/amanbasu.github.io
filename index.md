@@ -20,7 +20,7 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
 <center>
-  ![](https://github.com/amanbasu/amanbasu.github.io/blob/master/img/plasma_disruption.gif)<br>
+  <img src="https://github.com/amanbasu/amanbasu.github.io/blob/master/img/plasma_disruption.gif"><br>
   Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 </center>
 

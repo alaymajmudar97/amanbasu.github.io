@@ -28,8 +28,8 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
 - Studying the progression of this segmentation in predicting the severity of the disease.
 
-<img src="https://github.com/amanbasu/amanbasu.github.io/blob/master/img/seg1.png" alt="segmentation result" class="inline"/>
-<img src="https://github.com/amanbasu/amanbasu.github.io/blob/master/img/seg2.png" alt="segmentation result" class="inline"/>
+<img src="img/seg1.png" alt="segmentation result" class="inline"/>
+<img src="img/seg2.png" alt="segmentation result" class="inline"/>
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

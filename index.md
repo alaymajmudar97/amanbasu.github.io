@@ -19,9 +19,14 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
+![](https://github.com/amanbasu/amanbasu.github.io/blob/master/img/plasma_disruption.mp4)
+
 #### Full-body Tumor segmentation from MRI scans
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
 - Studying the progression of this segmentation in predicting the severity of the disease.
+
+![](https://github.com/amanbasu/amanbasu.github.io/blob/master/img/seg1.png)
+![](https://github.com/amanbasu/amanbasu.github.io/blob/master/img/seg2.png)
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

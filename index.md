@@ -2,6 +2,8 @@
 I am a final year undergraduate student pursuing Computer Engineering at Nirma University, Ahmedabad, India. I have been
 working in the field of Artificial Intelligence and Machine Learning from past 2 years and have worked on projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
+[CV](https://drive.google.com/open?id=18BrIOyOeZMyBnEXH1IfwFvfzhHzoeh6s)
+
 # Education
 - Bachelor's - Nirma University, Ahmedabad \| GPA - 8.39
 - High School - St. Conrad's Inter College, Agra \| Score - 95%

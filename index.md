@@ -29,6 +29,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Studying the progression of this segmentation in predicting the severity of the disease.
 
 <img src="img/medical_result.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
+Segmentation of different organs from MRI scans.
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

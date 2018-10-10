@@ -28,8 +28,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
 - Studying the progression of this segmentation in predicting the severity of the disease.
 
-<img src="img/seg_1.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
-<img src="img/seg_2.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
+<img src="img/ezgif.com-crop.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

@@ -10,10 +10,10 @@ Here's a link to my [CV](https://drive.google.com/open?id=1CzxL7ZCmOqa_EorG8enk2
 
 # Skills
 - Programming Languages: Java, Python
-- Frameworks and Libraries: Tensorflow, Keras, Hadoop, Flask
+- Frameworks and Libraries: Tensorflow, Keras, Flask
 
 # Research
-Currently, I am involved in projects requiring analysis of whole boly MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
+Currently, I am involved in projects requiring analysis of whole body MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
 
 #### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.

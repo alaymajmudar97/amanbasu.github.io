@@ -24,9 +24,8 @@ Currently, I am involved in projects requiring analysis of whole boly MRI scans,
 <img src="img/plasma_disruption.gif" alt="plasma disruption result" class="inline"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
-#### Full-body Tumor segmentation from MRI scans
-- Detection of tumorous regions in MRI body scans, using 3D fully-convolutional neural networks.
-- Studying the progression of this segmentation in predicting the severity of the disease.
+#### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
+- Segmentation of prostate from MRI considering 3D volume.
 
 <img src="img/ezgif.com-crop.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
 

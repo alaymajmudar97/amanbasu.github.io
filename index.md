@@ -27,7 +27,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 #### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
 - Segmentation of prostate from MRI considering 3D volume.
 
-<img src="img/gif_result.gif" alt="segmentation result" class="inline" width="537px" height="320px"/><br>
+<img src="img/gif_res.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

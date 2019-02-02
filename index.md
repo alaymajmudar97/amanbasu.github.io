@@ -69,6 +69,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Introduction to Python programming, Udemy.
 
 # Achievements
+- Poster pressentation at **NVIDIA GTC** (2019)
 - GRE score: 327 (2018)
 - 1st Place in JAVA LINGO coding comptetion (2017)
 - 1st Place in North Zone science exhibition (2014)

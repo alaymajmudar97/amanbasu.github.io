@@ -28,6 +28,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Segmentation of prostate from MRI considering 3D volume.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - Poster selected for Nvidia GTC 2019.
+
 <img src="img/gif_res.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
 
 #### Analysis of crop health

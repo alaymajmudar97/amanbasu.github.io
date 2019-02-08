@@ -5,7 +5,7 @@ working in the field of Artificial Intelligence and Machine Learning from past 2
 Here's a link to my [CV](https://drive.google.com/open?id=1XXm6ugdb0QYqlxKGHwWBKWNCS6N_Vi0C), [Résumé](https://drive.google.com/open?id=1L2R_daWDbwMMp8iShKnnwj2_egxn4eah).
 
 # Education
-- Bachelor's - Nirma University, Ahmedabad \| GPA - 8.39
+- Bachelor's - Nirma University, Ahmedabad \| GPA - 8.42
 - High School - St. Conrad's Inter College, Agra \| Score - 95%
 
 # Skills
@@ -13,7 +13,7 @@ Here's a link to my [CV](https://drive.google.com/open?id=1XXm6ugdb0QYqlxKGHwWBK
 - Frameworks and Libraries: Tensorflow, Keras, Flask
 
 # Research
-Currently, I am involved in projects requiring analysis of whole body MRI scans, Plasma current confinement in tokamak and agricultural issues in India.
+Currently, I am involved in a project requiring satellite image processing using Deep Learning techniques.
 
 #### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
@@ -26,7 +26,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
 - Segmentation of prostate from MRI considering 3D volume.
-
+- Our model outperformed the results of V-net architecture in PROMISE12 challenge.
+- Poster selected for Nvidia GTC 2019.
 <img src="img/gif_res.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
 
 #### Analysis of crop health
@@ -69,7 +70,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Introduction to Python programming, Udemy.
 
 # Achievements
-- Poster pressentation at **NVIDIA GTC** (2019)
+- Poster presentation at **Nvidia GTC** (2019)
 - GRE score: 327 (2018)
 - 1st Place in JAVA LINGO coding comptetion (2017)
 - 1st Place in North Zone science exhibition (2014)

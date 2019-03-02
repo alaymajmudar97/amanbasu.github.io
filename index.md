@@ -1,8 +1,7 @@
 # Biography
-I am a final year undergraduate student pursuing Computer Engineering at Nirma University, Ahmedabad, India. I have been
-working in the field of Artificial Intelligence and Machine Learning from past 2 years and have worked on projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
+I am a final year undergraduate student pursuing Computer Engineering at Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have been involved in projects of Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
-Here's a link to my [CV](https://drive.google.com/open?id=1XXm6ugdb0QYqlxKGHwWBKWNCS6N_Vi0C), [Résumé](https://drive.google.com/open?id=1L2R_daWDbwMMp8iShKnnwj2_egxn4eah).
+Here's a link to my [CV](https://drive.google.com/open?id=1MUcaNDj2cCOers-Z9UA8TZG5YeAuxdZa), [Résumé](https://drive.google.com/open?id=12DkoTDuJ2-bXjK9Nl9cvd-0rfwozzoXR).
 
 # Education
 - Bachelor's - Nirma University, Ahmedabad \| GPA - 8.42
@@ -13,7 +12,7 @@ Here's a link to my [CV](https://drive.google.com/open?id=1XXm6ugdb0QYqlxKGHwWBK
 - Frameworks and Libraries: Tensorflow, Keras, Flask
 
 # Research
-Currently, I am involved in a project requiring satellite image processing using Deep Learning techniques.
+Currently, I am involved in a project requiring satellite image processing using Deep Learning.
 
 #### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.
@@ -34,7 +33,6 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
-- Recommending preventive measures for the disease.
 
 #### Speech Emotion Recognition [link](https://github.com/amanbasu/speech-emotion-recognition)
 - Prediction of human emotions from raw audio using IEMOCAP database.
@@ -59,6 +57,9 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### Hospital Management System [link](https://github.com/amanbasu/hospital-management-system)
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
+
+# Publication
+- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.
 
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.

@@ -28,7 +28,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - Poster presented at Nvidia GTC 2019.
 
-<img src="img/gif_res.gif" class="inline" width="640px" height="535px"/><br>
+<img src="img/gif_res.gif" class="inline" width="550px" height="200px"/><br>
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

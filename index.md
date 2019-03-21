@@ -26,7 +26,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 #### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
 - Segmentation of prostate from MRI considering 3D volume.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
-- Poster presented at Nvidia GTC 2019.
+- [Poster](https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png) presented at Nvidia GTC 2019.
 
 <img src="img/gif_res.gif" class="inline" width="535px" height="216px"/><br>
 

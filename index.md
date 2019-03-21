@@ -28,7 +28,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - Poster selected for Nvidia GTC 2019.
 
-<img src="img/gif_res.gif" alt="segmentation result" class="inline" width="537px" height="211px"/><br>
+<img src="https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="segmentation result" class="inline" width="640px" height="535px"/><br>
 
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.

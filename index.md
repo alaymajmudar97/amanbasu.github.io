@@ -30,6 +30,11 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 <img src="img/gif_res.gif" class="inline" width="535px" height="216px"/><br>
 
+#### AmSat: A holistic system to classify temporal satellite imagery
+- Temporal RGB satellite imagery were downloaded from Sentinel 2 and a labeled dataset was prepared.
+- A customized I3D Inception network (3DCNN) was trained with heavy data augmentation methods to compensate for a very small dataset.
+- The model was trained on AWS EC2 instance giving a validation accuracy of 85%.
+
 #### Analysis of crop health
 - Detection of crop species and diseases using image data.
 - Predicting severity of the disease using the above information along with other parameters like soil, weather, region etc.
@@ -79,7 +84,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Gold Medal in Maths olympiad (2010-13)
 
 # Volunteering Experience
-- **Teaching Assistant** for Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
+- **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
 
 # Hobbies & Interests
 - Body Building and Cooking.

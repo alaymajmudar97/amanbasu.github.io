@@ -1,10 +1,10 @@
 # Biography
 I am a final year undergraduate student pursuing Computer Engineering at Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have been involved in projects of Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
 
-Here's a link to my [CV](https://drive.google.com/open?id=1MUcaNDj2cCOers-Z9UA8TZG5YeAuxdZa), [Résumé](https://drive.google.com/open?id=12DkoTDuJ2-bXjK9Nl9cvd-0rfwozzoXR).
+Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQcopWUetmqOP), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
 
 # Education
-- Bachelor's - Nirma University, Ahmedabad \| GPA - 8.42
+- Bachelor's - Nirma University, Ahmedabad \| GPA - 8.60
 - High School - St. Conrad's Inter College, Agra \| Score - 95%
 
 # Skills
@@ -58,8 +58,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 #### Hospital Management System [link](https://github.com/amanbasu/hospital-management-system)
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
-# Publications
-- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.
+!# Publications
+!- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.
 
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.
@@ -77,6 +77,9 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - 1st Place in JAVA LINGO coding comptetion (2017)
 - 1st Place in North Zone science exhibition (2014)
 - Gold Medal in Maths olympiad (2010-13)
+
+# Volunteering Experience
+- **Teaching Assistant** for Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.
 
 # Hobbies & Interests
 - Body Building and Cooking.

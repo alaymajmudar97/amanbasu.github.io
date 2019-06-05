@@ -63,8 +63,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 #### Hospital Management System [link](https://github.com/amanbasu/hospital-management-system)
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
-<# Publications
-- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.>
+<> # Publications
+<> - Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.
 
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.

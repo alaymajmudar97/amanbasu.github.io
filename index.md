@@ -1,5 +1,5 @@
 # Biography
-Computer Engineer graduate from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have been involved in projects of Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery and Audio Signal Processing. Besides the academic activities, I am very passionate about Body Building and Fitness.
+Computer Engineer graduate from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have experience in projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery and Audio Signal Processing. Besides the academic activities, I am very passionate about Body Building and Fitness.
 
 Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQcopWUetmqOP), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
 
@@ -71,11 +71,11 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Machine Learning by Stanford University, Prof. Andrew Ng.
 - Introduction to Big Data by University of California San Diego.
 - Fundamentals of Accelerated Computing with CUDA, by Nvidia.
+- Computer Vision Specialization by University of Buffalo.
 - Elements of AI by University of Helsinki.
 - Data Analysis, Udacity.
 - Applied Machine Learning in Python by University of Michigan.
 - Programming Mobile Applications for Android by University of Maryland, Prof. Adam Porter.
-- Introduction to Python programming, Udemy.
 
 # Achievements
 - Poster presentation at **Nvidia GTC** (2019)

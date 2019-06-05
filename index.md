@@ -28,7 +28,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - [Poster](https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png) presented at Nvidia GTC 2019.
 
-<img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="640px" height="535px"/><br>
+<img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="535px" height="216px"/><br>
 
 #### AmSat: A holistic system to classify temporal satellite imagery
 - Temporal images were taken from Sentinel 2 satellite and a labeled dataset for classification was prepared.
@@ -84,7 +84,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - 1st Place in North Zone science exhibition (2014)
 - Gold Medal in Maths olympiad (2010-13)
 
-<img src="https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="535px" height="216px"/><br>
+<img src="https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="640px" height="535px"/><br>
 
 # Volunteering Experience
 - **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.

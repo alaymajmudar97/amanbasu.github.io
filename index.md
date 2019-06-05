@@ -65,6 +65,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 <> (# Publications)
 <> (- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.)
+[comment]: <> (This is a comment, it will not be included)
 
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.

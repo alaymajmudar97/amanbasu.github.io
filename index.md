@@ -1,5 +1,5 @@
 # Biography
-I am a final year undergraduate student pursuing Computer Engineering at Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have been involved in projects of Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging and Audio Signal Processing. Besides the academic activities, I am very passionte about Body Building and Fitness.
+Computer Engineer graduate from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have been involved in projects of Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery and Audio Signal Processing. Besides the academic activities, I am very passionate about Body Building and Fitness.
 
 Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQcopWUetmqOP), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
 
@@ -8,8 +8,8 @@ Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQ
 - High School - St. Conrad's Inter College, Agra \| Score - 95%
 
 # Skills
-- Programming Languages: Java, Python
-- Frameworks and Libraries: Tensorflow, Keras, Flask
+- Programming Languages: Python, Java
+- Frameworks: Tensorflow, Keras, Flask
 
 # Research
 Currently, I am involved in a project requiring satellite image processing using Deep Learning.
@@ -20,7 +20,7 @@ Currently, I am involved in a project requiring satellite image processing using
 - The model was developed in Tensorflow using LSTM, and was successfully tested, giving real time inferencing with an accuracy of 95%.
 - Input features included the readings of various diagnostics like plasma current, mirnov oscillations, loop voltage, bolo meter readings and many other.
 
-<img src="img/plasma_disruption.gif" alt="plasma disruption result" class="inline"/><br>
+<img src="img/plasma_disruption.gif" alt="plasma disruption animation" class="inline"/><br>
 Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 #### 3D Prostate Segmentation of MR Images using FCNN [link](https://github.com/amanbasu/3d-prostate-segmentation)
@@ -28,10 +28,10 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Our model outperformed the results of V-net architecture in PROMISE12 challenge.
 - [Poster](https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png) presented at Nvidia GTC 2019.
 
-<img src="img/gif_res.gif" class="inline" width="535px" height="216px"/><br>
+<img src="img/gif_res.gif" alt="prostate segmentation animation" class="inline" width="535px" height="216px"/><br>
 
 #### AmSat: A holistic system to classify temporal satellite imagery
-- Temporal RGB satellite imagery were downloaded from Sentinel 2 and a labeled dataset was prepared.
+- Temporal images were taken from Sentinel 2 satellite and a labeled dataset for classification was prepared.
 - A customized I3D Inception network (3DCNN) was trained with heavy data augmentation methods to compensate for a very small dataset.
 - The model was trained on AWS EC2 instance giving a validation accuracy of 85%.
 
@@ -70,6 +70,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.
 - Machine Learning by Stanford University, Prof. Andrew Ng.
 - Introduction to Big Data by University of California San Diego.
+- Fundamentals of Accelerated Computing with CUDA, by Nvidia.
 - Elements of AI by University of Helsinki.
 - Data Analysis, Udacity.
 - Applied Machine Learning in Python by University of Michigan.
@@ -82,6 +83,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - 1st Place in JAVA LINGO coding comptetion (2017)
 - 1st Place in North Zone science exhibition (2014)
 - Gold Medal in Maths olympiad (2010-13)
+
+<img src="https://github.com/amanbasu/3d-prostate-segmentation/blob/master/images/Deep%20Learning%20Research_20_P9190_Aman_Agarwal_1920x1607.png" alt="poster" class="inline" width="535px" height="216px"/><br>
 
 # Volunteering Experience
 - **Teaching Assistant**, Nvidia DLI Workshop: For courses on Computer Vision, DL for multiple data types and CUDA programming under [Dr. Priyanka Sharma](https://www.linkedin.com/in/drpriyankasharma/) at Mahindra École Centrale, Hyderabad, India.

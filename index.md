@@ -3,6 +3,11 @@ Computer Engineer graduate from Nirma University, Ahmedabad, India. I have been 
 
 Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQcopWUetmqOP), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
 
+# Experience
+- *HSBC Technology India* : Software Engineer (July 2019 - Present)
+- *Government of India* : Deep Learning Intern (Jan 2019 - July 2019)
+- *Samyak Infotech* : Alexa Skill Developer (May 2018 - July 2018)
+
 # Education
 - Bachelor's - Nirma University, Ahmedabad \| GPA - 8.60
 - High School - St. Conrad's Inter College, Agra \| Score - 95%

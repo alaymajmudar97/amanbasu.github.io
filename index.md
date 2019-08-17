@@ -1,7 +1,7 @@
 # Biography
 B.Tech in Computer Engineer from Nirma University, Ahmedabad, India. I have been working in the field of Artificial Intelligence and Machine Learning from past 2 years and have experience in projects involving Computer Vision, Agriculture, Nuclear Physics, Parallel Computing, Medical Imaging, Satellite Imagery and Audio Signal Processing. Besides the academic activities, I am very passionate about Body Building and Fitness.
 
-Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQcopWUetmqOP), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
+Here's a link to my [CV](https://drive.google.com/open?id=1Q29bNShbeG2T1gtRsBblBJBdxwwhlP7z), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
 
 # Experience
 - **HSBC Technology India** : Software Engineer (July 2019 - Present)
@@ -71,6 +71,9 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 [comment]: <> (# Publications)
 [comment]: <> (- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.)
+
+# Publications
+- Aman Agarwal, Aditya Mishra, Priyanka Sharma. DV-Net: A FCNN based approach for volumetric prostate segmentation from MR images. Submitted to Expert Systems With Applications, Elsevier 2019. Ref. No.: ESWA-D-19-03098.
 
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.

@@ -5,6 +5,7 @@ Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQ
 
 # Experience
 - **HSBC Technology India** : Software Engineer (July 2019 - Present)
+- **Intel Corporation** : Software Innovator (June 2019 - Present)
 - **Government of India** : Deep Learning Solution Architect (Jan 2019 - July 2019)
 - **Samyak Infotech** : Alexa Skill Developer (May 2018 - July 2018)
 

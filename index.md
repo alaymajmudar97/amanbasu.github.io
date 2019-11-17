@@ -76,8 +76,8 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - Aman Agarwal, Aditya Mishra, Priyanka Sharma. DV-Net: A FCNN based approach for volumetric prostate segmentation from MR images. Submitted to Expert Systems With Applications, Elsevier 2019. Ref. No.: ESWA-D-19-03098.
 
 # Blogs
-- (Ship Detection in Satellite Images from Scratch)[https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072]
-- (ECG to Identify Individuals)[https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0]
+- [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072)
+- [ECG to Identify Individuals](https://medium.com/intel-software-innovators/ecg-to-identify-individuals-from-data-to-deployment-74cce404f9f0)
 
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.

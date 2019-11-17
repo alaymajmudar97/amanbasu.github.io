@@ -104,10 +104,9 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 
 # Hobbies & Interests
 - Body Building and Cooking.
-- Reading Novels.
-- Playing sports.
-- Singing and Listening Songs.
-- Watching Cricket Matches.
+- Health & Nutrition.
+- Human Anatomy.
+- Cricket, badminton.
 
 <p align="center">
   <a href="https://twitter.com/aman_ag11">

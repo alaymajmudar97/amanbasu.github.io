@@ -5,7 +5,7 @@ Here's a link to my [Portfolio](https://amanbasu.github.io/portfolio/), [CV](htt
 
 # Experience
 - **HSBC Technology India** : Software Engineer (July 2019 - Present)
-- **Intel Corporation** : Software Innovator (June 2019 - Present)
+- **Intel Corporation** : Software Innovator for AI (June 2019 - Present)
 - **Government of India** : Deep Learning Solution Architect (Jan 2019 - July 2019)
 - **Samyak Infotech** : Alexa Skill Developer (May 2018 - July 2018)
 

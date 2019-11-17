@@ -69,10 +69,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 - A software developed on JavaFx to store hospital details like patient information, staff information, department details etc. in SQL database.
 
 [comment]: <> (# Publications)
-[comment]: <> (- Aman Agarwal, Aditya Mishra, Priyanka Sharma. Volumetric segmentation of prostate from MR images using FCNN with increased receptive field. Submitted to Medical Image Analysis, Elsevier 2019. Ref. No.: MEDIA-D-19-00128.)
-
-# Publications
-- Aman Agarwal, Aditya Mishra, Priyanka Sharma. DV-Net: A FCNN based approach for volumetric prostate segmentation from MR images. Submitted to Expert Systems With Applications, Elsevier 2019. Ref. No.: ESWA-D-19-03098.
+[comment]: <> (Aman Agarwal, Aditya Mishra, Priyanka Sharma. DV-Net: A FCNN based approach for volumetric prostate segmentation from MR images. Submitted to Expert Systems With Applications, Elsevier 2019. Ref. No.: ESWA-D-19-03098.)
 
 # Blogs
 - [Ship Detection in Satellite Images from Scratch](https://medium.com/intel-software-innovators/ship-detection-in-satellite-images-from-scratch-849ccfcc3072)

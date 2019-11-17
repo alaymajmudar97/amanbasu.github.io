@@ -18,7 +18,6 @@ Here's a link to my [Portfolio](https://amanbasu.github.io/portfolio/), [CV](htt
 - Frameworks: Tensorflow, Keras, Flask
 
 # Research
-Currently, I am involved in a project requiring satellite image processing using Deep Learning.
 
 #### Predicting the dynamics of Tokamak discharge <br> (Department of Atomic Energy, India)  
 - The aim of the research was to anticipate the phenomenon of Disruption during Plasma confinement in Aditya Tokamak.

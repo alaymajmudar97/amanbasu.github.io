@@ -78,6 +78,7 @@ Our model predicting the disruption of Plasma current (12ms ahead) in real time.
 # Certifications and Courses
 - Deep Learning Specialization (5 courses), Prof. Andrew Ng.
 - Machine Learning by Stanford University, Prof. Andrew Ng.
+- PCAP Certified Associate in Python Programming
 - Introduction to Big Data by University of California San Diego.
 - Fundamentals of Accelerated Computing with CUDA, by Nvidia.
 - Computer Vision Specialization by University of Buffalo.
